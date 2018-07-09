@@ -4,6 +4,9 @@ spring-boot-request-log-starter
 ## What is this?
 Logging for all web requests with status code
 
+## Requirement
+For this starter to work correctly you will need Spring Boot 2.
+
 ## How to use?
 ```xml
     <dependency>
