@@ -12,7 +12,7 @@ For this starter to work correctly you will need Spring Boot 2.
     <dependency>
         <groupId>com.github.timo-reymann</groupId>
         <artifactId>spring-boot-request-log-starter</artifactId>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </dependency>
 ```
 
