@@ -2,6 +2,6 @@ package com.github.timo_reymann.springbootrequestlogstarter;
 
 import org.springframework.context.annotation.ComponentScan;
 
-@ComponentScan("com.github.timo_reymann.springbootrequestlogstarter")
+@ComponentScan
 public class SpringBootRequestLoggerAutoconfiguration {
 }

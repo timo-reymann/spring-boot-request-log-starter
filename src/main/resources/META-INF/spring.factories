@@ -1,1 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.timo_reymann.springbootrequestlogstarter.SpringBootRequestLoggerAutoconfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.github.timo_reymann.springbootrequestlogstarter.SpringBootRequestLoggerAutoconfiguration
